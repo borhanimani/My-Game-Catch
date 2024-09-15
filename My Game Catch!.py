@@ -59,7 +59,7 @@ def checkMouseCor():
 
 def drawSquare(position):
     checkMouseCor()
-    x=position
+a    x=position
     y=50
     squarePoints=[Point(x,y),Point((x+10),y),Point((x+10),(y + 10)),Point(x,(y + 10))]
     square=Polygon(squarePoints)
