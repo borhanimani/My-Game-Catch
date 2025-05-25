@@ -12,4 +12,4 @@ enjoy the game!
 - Python
 
 -----PROGRAMMING LANGUAGE LIBRARY-----
-- Graphic.py
+- Graphics.py
